@@ -7,6 +7,8 @@ public class Variables {
         // declare multi variables (a container, so we can store some data in it)
         byte myByte;
 
+        ///
+
         short myShort;
         int myInt;
         long myLong;
